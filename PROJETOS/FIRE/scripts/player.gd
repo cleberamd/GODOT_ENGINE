@@ -7,7 +7,7 @@ onready var sprite2 = get_node("Anim2")
 onready var timer = get_node("Timer")
 
 
-#---------------------------------------------------------------------------------
+#-------------------------------------------------------------------------------
 # This demo shows how to build a kinematic controller.
 
 # Member variables
